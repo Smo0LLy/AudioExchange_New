@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Владимир\\Desktop\\kurs_test\\audio-exchange\\contracts\\AudioExchange.sol": {
+      "lastModificationDate": 1746397549443,
+      "contentHash": "6164f343fb985dfef7a7fecb56cb4351",
+      "sourceName": "contracts/AudioExchange.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "AudioExchange"
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+  console.log(`${account}: ${ethers.utils.formatEther(balance)} ETH`)
+  const balance = await ethers.provider.getBalance(account)
+await Promise.all(accounts.map(async (account) => {
+const accounts = await ethers.provider.listAccounts()
+// Или всех аккаунтов
+await ethers.279cffFb92266")
+// Проверить баланс первого аккаунта
