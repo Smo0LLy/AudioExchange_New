@@ -122,6 +122,7 @@ contract AudioExchange {
             audio.artist,
             audio.ipfsHash,
             audio.price,
+            
             audio.isForSale
         );
     }
