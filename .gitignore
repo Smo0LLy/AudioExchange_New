@@ -1,0 +1,31 @@
+# === Node.js ===
+node_modules/
+.env
+*.log
+npm-debug.log*
+
+# === React ===
+build/
+dist/
+
+# === Java / Spring Boot ===
+/target/
+*.class
+*.jar
+*.war
+*.iml
+
+# === OS / IDE ===
+.DS_Store
+*.swp
+.idea/
+.vscode/
+*.tmp
+
+# === Logs ===
+logs/
+*.log
+
+# === Others ===
+*.pack
+.cache/
